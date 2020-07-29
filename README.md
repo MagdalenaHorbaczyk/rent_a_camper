@@ -10,4 +10,4 @@ Założenia projektu:
 
 Projekt powstawał w bardzo specyfinczych warunkach, które niestety nie pozwoliły na realizację aplikacji zgodnie z założonym planem, stąd też nie udało się zrealizować w pełni 
 wymagań projektowych. Będą one jednak rozwijane w najbliższej przyszłości, z uwagi na to by aplikacja mogła znaleźć się w portfolio do cv. Proszę zatem o sprawdzenie
-obecnego kodu oraz o ile to możliwe, o komentarz na czym warto się skupić przy dalszym rozwijaniu aplikacji.
+obecnego kodu oraz o ile to możliwe, o komentarz na czym warto się skupić przy dalszym rozwijaniu aplikacji. Dziękuję
