@@ -1,7 +1,7 @@
 Aplikacja RENT A CAMPER
 Założenia projektu:
 1. 20 endpointów REST - zrealizowane
-2. 2 zewnętrzne źródła danych - częściowo zrealizowane
+2. 2 zewnętrzne źródła danych (Wheatherbit app - ma umożliwić klientom sprawdznie prognozy pogody przy planowaniu terminu wypożyczenia kampera) - częściowo zrealizowane
 3. Scheduler - zrealizowane (codzienne naliczanie opłat za zakończone rezerwacje)
 4. 10 operacji zapisu do bazy danych - zrealizowane
 5. Testy pokrywające co najmniej 65% kodu - zrealizowane
